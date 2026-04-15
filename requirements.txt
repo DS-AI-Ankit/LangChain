@@ -1,0 +1,8 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+fastmcp
+langgraph
+langchain
+langchain-community
+langchain-core
